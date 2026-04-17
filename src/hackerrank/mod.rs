@@ -1,6 +1,7 @@
 pub mod practice3;
 pub mod practice4;
 pub mod practice5;
+pub mod practice6;
 mod task0;
 mod task03;
 mod task04;
