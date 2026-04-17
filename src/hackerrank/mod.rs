@@ -1,4 +1,5 @@
 pub mod practice3;
+pub mod practice4;
 mod task0;
 mod task03;
 mod task04;
